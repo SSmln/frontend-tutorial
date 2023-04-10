@@ -109,28 +109,28 @@ body > .info {
     font-size: var(--font-small);
     color: var(--grey-dark-color);
 }
- 
-.info .aciions { 
+ /* actions */
+.actions { 
     display: flex;
     justify-content: space-around;
     margin: var(--padding);
 }
 
-.info .actions button {
+.actions button {
     display: flex;
     flex-direction: column;
     font-size: var(--font-small);
     color: var(--grey-dark-color);
 }
 
-.info .actions button i{
+.actions button i {
     margin : 0 auto;
     margin-bottom: calc(var(--padding) / 2);
     font-size: 16px;
 
 }
 
-.info .actions button i.active {
+.actions button i.active {
     color: var(--blue-color);
 }
 
