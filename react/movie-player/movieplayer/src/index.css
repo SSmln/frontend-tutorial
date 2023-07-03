@@ -1,0 +1,14 @@
+body {
+  background-color: skyblue;
+  width : auto;
+  height: auto;
+
+}
+
+.ReactVideoPlayer {
+  width : flex;
+  height: flex;
+  display: block;
+
+
+}
