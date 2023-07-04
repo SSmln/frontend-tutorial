@@ -1,10 +1,9 @@
 import logo from './logo.svg';
-import './App.css';
-import MyComponent from './MyComponent';
+import './style.css';
 
 const App = () => {
   return (
-    <div><MyComponent></MyComponent></div>
+    <header>heelo</header>
   );
 };
 
